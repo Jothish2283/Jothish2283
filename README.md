@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="300" height="300" src="https://trabeya.com/wp-content/uploads/2020/09/fin-brain2-1.gif">
 
-- 🔭 I’m currently working on **RCNN**
+- 🔭 I’m currently working on **GANs**
 
 - 🌱 I’m currently learning **Implementations and deployment of trained models.**
 
