@@ -1,5 +1,4 @@
-![MasterHead]
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fblackoder.wordpress.com%2F2016%2F10%2F22%2Ffrustration-of-programmer%2F&psig=AOvVaw05IuC9Dfjsj4AdtrJviC2a&ust=1717786576525000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMCRu-3Tx4YDFQAAAAAdAAAAABBh)
+![MasterHead](https://i.gifer.com/fetch/w300-preview/a3/a3770a234ae347ebbac7afdc2bfeeca0.gif)
 
 <h1 align="left">Hi 👋, I'm Jothish</h1>
 <h3 align="left">Walking through the realms of AI</h3>
