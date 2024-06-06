@@ -1,4 +1,4 @@
-![MasterHead](<iframe src="https://giphy.com/embed/wcgn5fVDjvR7pdvz4C" width="480" height="358" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-work-computer-pro-wcgn5fVDjvR7pdvz4C">via GIPHY</a></p>)
+![MasterHead](https://i.gifer.com/fetch/w300-preview/a3/a3770a234ae347ebbac7afdc2bfeeca0.gif)
 
 <h1 align="left">Hi 👋, I'm Jothish</h1>
 <h3 align="left">Walking through the realms of AI</h3>
