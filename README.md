@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblackoder.wordpress.com%2F2016%2F10%2F22%2Ffrustration-of-programmer%2F&psig=AOvVaw05IuC9Dfjsj4AdtrJviC2a&ust=1717786576525000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMCRu-3Tx4YDFQAAAAAdAAAAABBh)
 
 <h1 align="left">Hi 👋, I'm Jothish</h1>
 <h3 align="left">Walking through the realms of AI</h3>
